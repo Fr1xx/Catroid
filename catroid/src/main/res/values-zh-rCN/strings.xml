@@ -203,7 +203,7 @@
     <string name="preference_title_enable_arduino_bricks">Arduino积木</string>
     <string name="preference_description_arduino_bricks">允许控制Arduino控制板</string>
     <string name="preference_title_enable_embroidery_bricks">刺绣扩展</string>
-    <string name="preference_description_embroidery_bricks">创建缝纫机創建圖案</string>
+    <string name="preference_description_embroidery_bricks">创建缝纫机图案</string>
     <string name="preference_title_cast_feature_globally_enabled">启用强制转换功能</string>
     <string name="preference_description_cast_feature_globally_enabled">显示投射按钮并启用投射项目</string>
     <string name="preference_title_enable_nfc_bricks">近距离无线通信</string>
@@ -919,12 +919,12 @@ dash(-), 下划线 (_), 和 句号(.).</string>
     <string name="for_string">持续</string>
     <!--  -->
     <!-- Embroidery bricks -->
-    <string name="brick_stitch">纹理</string>
-    <string name="brick_running_stitch">开始使用长度运行 sitch</string>
-    <string name="brick_zigzag_stitch">开始以zigzag sitch长度</string>
+    <string name="brick_stitch">缝制</string>
+    <string name="brick_running_stitch">开始进行缝制，按照长度</string>
+    <string name="brick_zigzag_stitch">开始以锯齿线迹缝制，按照长度</string>
     <string name="brick_zigzag_stitch_width">和宽度</string>
-    <string name="brick_triple_stitch">按长度开始三次曲目</string>
-    <string name="brick_stop_stitch">停止当前色调</string>
+    <string name="brick_triple_stitch">开始以三重线迹缝制，按照长度</string>
+    <string name="brick_stop_stitch">停止当前缝制操作</string>
     <string name="brick_write_embroidery">将刺绣数据写入文件</string>
     <string name="brick_default_embroidery_file">刺绣.dst</string>
     <string name="brick_sew_up">上移</string>
